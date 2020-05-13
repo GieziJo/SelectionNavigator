@@ -1,0 +1,17 @@
+{
+    "name": "ch.giezi.SelectionNavigator.editor",
+    "references": [
+        "GUID:add75d0c297f6d04eb658dcd113c4ee7"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
